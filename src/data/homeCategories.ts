@@ -1,0 +1,171 @@
+export const homeCategories = [
+ 
+  {
+    categoryId: "women_lehenga_cholis",
+    section: "GRID",
+    name: "women lehenga cholis",
+    image:
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23807268/2023/6/29/9930b235-5318-4755-abbe-08f99e969e781688026636544LehengaCholi7.jpg",
+  },
+  {
+    categoryId: "men_formal_shoes",
+    section: "GRID",
+    name: "men formal shoes",
+    image:
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24651572/2023/8/25/4fbf6d8c-d093-46c5-a5a6-7dd67c0c76551692964752597HouseofPataudiMenTanFauxLeatherFormalSlipOnLoafers1.jpg",
+  },
+  {
+    categoryId: "women_lehenga_cholis",
+    section: "GRID",
+    name: "women lehenga cholis",
+    image:
+      "https://images.pexels.com/photos/12730873/pexels-photo-12730873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  },
+  {
+    categoryId: "men_sherwanis",
+    section: "GRID",
+    name: "men sherwanis",
+    image:
+      "https://shreeman.in/cdn/shop/files/20_3cfbd5a3-ecb6-482a-b798-7ffd9de1c784.jpg?v=1712061674&width=700",
+  },
+  {
+    categoryId: "women_jewellery",
+    section: "GRID",
+    name: "women jewellery",
+    image:
+      "https://media.istockphoto.com/id/1276740597/photo/indian-traditional-gold-necklace.jpg?b=1&s=612x612&w=0&k=20&c=S-QnNZKqf2u3L-GIaDiIinNRU74GBWQaIDwY7gYJboY=",
+  },
+  {
+    categoryId: "women_footwear",
+    section: "GRID",
+    name: "women footwear",
+    image:
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/13837166/2021/8/19/04e40e02-4c56-4705-94d0-f444b29973aa1629373611707-House-of-Pataudi-Women-Maroon-Embellished-Handcrafted-Wedges-1.jpg",
+  },
+  {
+    name: "Banarasi Saree",
+    categoryId: "banarasi_saree",
+    parentCategoryId: "women_saree",
+    section: "SHOP_BY_CATEGORIES",
+    image: "https://m.media-amazon.com/images/I/71ttBApNmCL._SY879_.jpg",
+  },
+  {
+    name: "Kanjeevaram Saree",
+    categoryId: "kanjeevaram_saree",
+    parentCategoryId: "women_saree",
+    section: "SHOP_BY_CATEGORIES",
+    image: "https://m.media-amazon.com/images/I/61t5Rq80yeL._SY879_.jpg",
+  },
+  {
+    name: "Paithani Saree",
+    categoryId: "paithani_saree",
+    parentCategoryId: "women_saree",
+    section: "SHOP_BY_CATEGORIES",
+    image: "https://madhurya.com/cdn/shop/files/SGxMD_1023_17711.jpg?v=1737959704&width=1600",
+  },
+  {
+    name: "Bandhani Saree",
+    categoryId: "bandhani_saree",
+    parentCategoryId: "women_saree",
+    section: "SHOP_BY_CATEGORIES",
+    image: "https://geethacreation.com/cdn/shop/files/A42FDE48-87D9-4FC9-B38F-85BDAC0C5BA0.jpg?v=1725894358",
+  },
+  {
+    name: "Chanderi Saree",
+    categoryId: "chanderi_saree",
+    parentCategoryId: "women_saree",
+    section: "SHOP_BY_CATEGORIES",
+    image: "https://rkgshopping.in/cdn/shop/products/chanderi-hand-block-print-saree-with-blouse-saree-rkg-shopping-224515.jpg?v=1688134681&width=493",
+  },
+  {
+    name: "Mysore Silk Saree",
+    categoryId: "mysore_silk_saree",
+    parentCategoryId: "women_saree",
+    section: "SHOP_BY_CATEGORIES",
+    image: "https://img.theloom.in/pwa/catalog/product/cache/e442fb943037550e0d70cca304324ade/k/a/kapittha-_3__1.jpg/tr:c-at_max,w-800,h-1066-",
+  },
+  {
+    name: "Organza Saree",
+    categoryId: "organza_saree",
+    parentCategoryId: "women_saree",
+    section: "SHOP_BY_CATEGORIES",
+    image: "https://m.media-amazon.com/images/I/71NzQKKBs6L._SY879_.jpg",
+  },
+  {
+    name: "Net Saree",
+    categoryId: "net_saree",
+    parentCategoryId: "women_saree",
+    section: "SHOP_BY_CATEGORIES",
+    image: "https://m.media-amazon.com/images/I/71x8pxL1JrL._SY879_.jpg",
+  },
+  {
+    name: "Chiffon Saree",
+    categoryId: "chiffon_saree",
+    parentCategoryId: "women_saree",
+    section: "SHOP_BY_CATEGORIES",
+    image: "https://www.lavanyathelabel.com/cdn/shop/files/LBL101KS890_1_800x.jpg?v=1740034479",
+  },
+  {
+    name: "Banarasi Saree",
+    categoryId: "banarasi_saree",
+    parentCategoryId: "women_saree",
+    section: "DEALS",
+    image: "https://m.media-amazon.com/images/I/71ttBApNmCL._SY879_.jpg",
+  },
+  {
+    name: "Kanjeevaram Saree",
+    categoryId: "kanjeevaram_saree",
+    parentCategoryId: "women_saree",
+    section: "DEALS",
+    image: "https://m.media-amazon.com/images/I/61t5Rq80yeL._SY879_.jpg",
+  },
+  {
+    name: "Paithani Saree",
+    categoryId: "paithani_saree",
+    parentCategoryId: "women_saree",
+    section: "DEALS",
+    image: "https://madhurya.com/cdn/shop/files/SGxMD_1023_17711.jpg?v=1737959704&width=1600",
+  },
+  {
+    name: "Bandhani Saree",
+    categoryId: "bandhani_saree",
+    parentCategoryId: "women_saree",
+    section: "DEALS",
+    image: "https://geethacreation.com/cdn/shop/files/A42FDE48-87D9-4FC9-B38F-85BDAC0C5BA0.jpg?v=1725894358",
+  },
+  {
+    name: "Chanderi Saree",
+    categoryId: "chanderi_saree",
+    parentCategoryId: "women_saree",
+    section: "DEALS",
+    image: "https://rkgshopping.in/cdn/shop/products/chanderi-hand-block-print-saree-with-blouse-saree-rkg-shopping-224515.jpg?v=1688134681&width=493",
+  },
+  {
+    name: "Mysore Silk Saree",
+    categoryId: "mysore_silk_saree",
+    parentCategoryId: "women_saree",
+    section: "DEALS",
+    image: "https://img.theloom.in/pwa/catalog/product/cache/e442fb943037550e0d70cca304324ade/k/a/kapittha-_3__1.jpg/tr:c-at_max,w-800,h-1066-",
+  },
+  {
+    name: "Organza Saree",
+    categoryId: "organza_saree",
+    parentCategoryId: "women_saree",
+    section: "DEALS",
+    image: "https://m.media-amazon.com/images/I/71NzQKKBs6L._SY879_.jpg",
+  },
+  {
+    name: "Net Saree",
+    categoryId: "net_saree",
+    parentCategoryId: "women_saree",
+    section: "DEALS",
+    image: "https://m.media-amazon.com/images/I/71x8pxL1JrL._SY879_.jpg",
+  },
+  {
+    name: "Chiffon Saree",
+    categoryId: "chiffon_saree",
+    parentCategoryId: "women_saree",
+    section: "DEALS",
+    image: "https://www.lavanyathelabel.com/cdn/shop/files/LBL101KS890_1_800x.jpg?v=1740034479",
+  },
+];
