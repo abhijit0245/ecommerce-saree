@@ -13,7 +13,7 @@ import {
 const Logo: React.FC = () => {
   return (
     <div className="text-center text-[#1a237e] font-bold text-4xl mb-6 tracking-wide">
-      Udipi Saree Empower
+      Udupi Saree Empower
     </div>
   );
 };
@@ -154,7 +154,7 @@ const ContactUs: React.FC = () => {
       {/* Footer */}
       <footer className="mt-20 text-center text-gray-600">
         <Typography variant="body2">
-          © {new Date().getFullYear()} Udipi Saree Empower. All rights reserved.
+          © {new Date().getFullYear()} Udupi Saree Empower. All rights reserved.
         </Typography>
       </footer>
     </div>
