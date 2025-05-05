@@ -19,7 +19,7 @@ const Navbar = ({DrawerList}:any) => {
           <MenuIcon color='primary' />
         </IconButton>
 
-        <h1 onClick={() => navigate("/")} className='logo text-xl cursor-pointer'>Udipi Saree Empower</h1>
+        <h1 onClick={() => navigate("/")} className='logo text-xl cursor-pointer'>Udupi Saree Empower</h1>
       </div>
 
       <Drawer open={open} onClose={toggleDrawer(false)}>

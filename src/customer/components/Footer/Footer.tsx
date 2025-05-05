@@ -7,9 +7,9 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap justify-between items-center">
           <div className="text-center md:text-left">
-            <h5 className="text-lg font-semibold">Udipi Saree Empower</h5>
+            <h5 className="text-lg font-semibold">Udupi Saree Empower</h5>
             <p className="text-sm mt-2">
-              © {new Date().getFullYear()} Udipi Saree Empower. All rights reserved.
+              © {new Date().getFullYear()} Udupi Saree Empower. All rights reserved.
             </p>
           </div>
           <div className="text-center mt-4 md:mt-0">
